@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bayro\\source\\repos\\practicas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|c:\\users\\bayro\\source\\repos\\practicas\\webapplication1\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|c:\\users\\bayro\\source\\repos\\practicas\\webapplication1\\repository\\inotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\inotarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|c:\\users\\bayro\\source\\repos\\practicas\\webapplication1\\repository\\notarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\notarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|c:\\users\\bayro\\source\\repos\\practicas\\webapplication1\\service\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\service\\notaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|c:\\users\\bayro\\source\\repos\\practicas\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|c:\\users\\bayro\\source\\repos\\practicas\\webapplication1\\models\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C696682-272F-4FD2-B09A-FC2C4AAE122A}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Repository\\NotaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\NotaRepository.cs",
+              "ToolTip": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Repository\\NotaRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\NotaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:44:51.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notas.cs",
+              "DocumentMoniker": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Models\\Notas.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Notas.cs",
+              "ToolTip": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Models\\Notas.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Notas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:43:53.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:24:08.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotaService.cs",
+              "DocumentMoniker": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\service\\NotaService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\service\\NotaService.cs",
+              "ToolTip": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\service\\NotaService.cs",
+              "RelativeToolTip": "WebApplication1\\service\\NotaService.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA8wFQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:32:59.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotasController.cs",
+              "DocumentMoniker": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Controllers\\NotasController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\NotasController.cs",
+              "ToolTip": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Controllers\\NotasController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\NotasController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:32:42.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Repository\\INotaRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\INotaRepository.cs",
+              "ToolTip": "C:\\Users\\bayro\\source\\repos\\practicas\\WebApplication1\\Repository\\INotaRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\INotaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:45:04.385Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
